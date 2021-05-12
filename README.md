@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @FSaul13
+- 👀 I’m interested in learn more about web technologies and improve my programing skills
+- 🌱 I’m currently learning :Net to learn how to develop the server-side of a web app.
